@@ -1,3 +1,4 @@
 Private sub()
 msgbox "This is my First git based macro files"
+msgbox "this is another conflict line from Git global"
 End sub
